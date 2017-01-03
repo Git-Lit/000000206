@@ -1,3 +1,7 @@
+---
+layout: default
+title: Walter Forbes.  By A. A
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
